@@ -40,6 +40,7 @@ archives:
 brews:
   - 
     name: bra
+    description: CLI for the BrasilAPI project
     homepage: https://github.com/effeix/brasilapi-cli
     directory: Formula
     test: |
